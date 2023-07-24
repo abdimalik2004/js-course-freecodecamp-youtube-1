@@ -1,5 +1,5 @@
 // To incerement means to add 1.
-var myVar = 97;
+var myVar = 98;
 
 myVar++;
 
