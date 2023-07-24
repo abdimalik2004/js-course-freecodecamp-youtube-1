@@ -2,7 +2,7 @@
    var myName = "abdimalik"
    /* var will be used the while program */
 
-   myNuber = 9
+   myNuber = 10
    /* but let will only be used whith the scope of where you decalred */
    let ourName = "abdimalik"
    
