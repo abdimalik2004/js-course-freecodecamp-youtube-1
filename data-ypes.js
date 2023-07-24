@@ -4,6 +4,6 @@
     boolean means true or false,
     string means any sort of text,
     symbol means,
-    number means is just anumber ,
+    number means is just anumber only,
     object means store alot of keys,
     */
