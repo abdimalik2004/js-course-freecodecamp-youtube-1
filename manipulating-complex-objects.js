@@ -9,7 +9,7 @@ var myMusic = [
         "LP"
       ],
       "gold": true
-    }
+    },
     {
       "artist": "Abdi",
       "title": "Gaad",
@@ -18,4 +18,4 @@ var myMusic = [
         "Youtube videos"
       ]
     }
-  ];
+];
