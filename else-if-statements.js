@@ -6,6 +6,5 @@ function testElseIf(val) {
     } else {
         return "Between 5 and 10";
     } 
-}
-
+};
 console.log(testElseIf(7)); // Output Between 5 and 10
