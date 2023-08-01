@@ -4,4 +4,5 @@ ourStr += "I come second. ";
 // tetsing
 var mystr = "This is the frist sentence. " ;
 mystr += "This is the second sentence. " ;
+
 console.log(mystr);
