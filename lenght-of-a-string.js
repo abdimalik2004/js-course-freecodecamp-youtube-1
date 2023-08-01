@@ -2,4 +2,4 @@
 var fristNamelength = 0;
 var fristANme = "Abdimalik";
 fristNamelength = fristANme.length;
-console.log(fristNamelength)
+console.log(fristNamelength);
