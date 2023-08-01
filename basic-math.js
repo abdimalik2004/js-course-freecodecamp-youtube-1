@@ -1,7 +1,6 @@
 // Adding numbers
 var sum = 10 + 10;
 console.log(sum);
-
 // Subtracting numbers
 var difference = 45 - 30;
 console.log(difference)
