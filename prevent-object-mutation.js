@@ -10,7 +10,7 @@ function freezeObj() {
       console.log(ex);
     }
     return MATH_CONSTANTS.PI;
-  }
-  const PI = freezeObj();
+}
+const PI = freezeObj();
 
-  console.log(PI)
+console.log(PI)
