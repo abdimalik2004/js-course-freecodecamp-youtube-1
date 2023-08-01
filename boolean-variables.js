@@ -1,3 +1,3 @@
-function welcomeToBooleans() {
+function welcomeToBooleans(){
     return true;
 }
