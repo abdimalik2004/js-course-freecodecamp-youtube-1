@@ -7,7 +7,7 @@ function change(sum) {
 changed = changed(10);
 
 var processed = 0;
-function processedArg(num) {
+function processedArg(num ) {
     return (num + 3) / 5;
 }
 
