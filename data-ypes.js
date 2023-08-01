@@ -6,4 +6,4 @@
     symbol means,
     number means is just anumber only,
     object means store alot of keys,
-    */
+*/
