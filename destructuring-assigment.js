@@ -59,7 +59,6 @@ console.log(arr);
 console.log(abdi);
 
 //Destructing Assigment to pass an Object as Function's Parameters
-
 const stats = {
     max: 56.78,
     satandard_deviation: 4.34,
