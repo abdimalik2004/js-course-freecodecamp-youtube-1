@@ -1,5 +1,4 @@
 var names = ["Hole-in-one!", "Eagle", "Birdie", "Par", "Bogey", "Double Bogey", "Go Home!"];
-
 function golfScore(par, strokes) {
   if (strokes == 1) {
     return names[0]
@@ -16,9 +15,8 @@ function golfScore(par, strokes) {
   } else if (strokes >= par + 3)  {
     return names[6]
   }
-}
-
-console.log(golfScore(5, 8)); // Output Go Home!
+};
+console.log(golfScore(5, 8)) ; // Output Go Home!
 /*
 1	"Hole-in-one!"
 <= par - 2	"Eagle"
