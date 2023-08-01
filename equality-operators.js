@@ -95,5 +95,4 @@ function testLessThanOrEqual(val) {
     }
     return "More Than 24";
 }
-
 console.log(testLessThanOrEqual(10)); // Output smaller Than Or Equal to 12  
