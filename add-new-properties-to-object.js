@@ -1,7 +1,7 @@
 const myDog = {
     "name": "Happy Coder",
     "legs": 4,
-    "tails": 1,
+    "tails": 2,
     "friends": ["freeCodeCamp Campers"]
 };
 
