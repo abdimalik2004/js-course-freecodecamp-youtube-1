@@ -6,4 +6,4 @@ var removedFromOurArray = ourArray.pop();
 var myArray = [["Abdimalik",19], ["cat", 2]];
 
 var removedFromMyArray = myArray.pop();
-console.log(myArray)
+console.log(myArray);
