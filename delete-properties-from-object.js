@@ -6,5 +6,6 @@ const myDog = {
     "friends": ["freeCodeCamp Campers"],
     "bark": "woof"
 };
+
 delete myDog.tails;
 console.log(myDog);
