@@ -4,7 +4,6 @@ var ourDog = {
   "tails": 1,
   "friends": ["everything!"]
 };
-
 var myDog = {
   "name": "Camper",
   "Legs": 3,
