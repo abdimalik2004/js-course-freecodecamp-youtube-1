@@ -7,7 +7,6 @@ var zeus = new SpaceShuttle('Jupiter');
 
 console.log(zeus.targwtPalnet);
 
-
 function makeClass() {
     class Vegatable {
         constructor (name){
