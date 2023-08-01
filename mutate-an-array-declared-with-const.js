@@ -6,5 +6,6 @@ function editInPlace() {
      s[1] = 5;
      s[2] = 7;
 }
+
 editInPlace()
 console.log(s);
