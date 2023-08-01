@@ -19,4 +19,5 @@ function randomRange(myMin, myMax) {
 }
 var myRandom = randomRange(5, 15);
 
+
 console.log(myRandom);
