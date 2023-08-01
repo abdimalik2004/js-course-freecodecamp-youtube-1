@@ -6,4 +6,4 @@ let arr2;
 })();
 
 
-console.log(arr2);
+console.log(arr2); 
