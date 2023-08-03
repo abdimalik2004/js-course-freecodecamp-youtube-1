@@ -6,4 +6,4 @@ function printMyManyTimes(str) {
     }
 }
 
-printMyManyTimes("Abdimalik");
+printMyManyTimes("Abdimalik"); 
