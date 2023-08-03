@@ -7,4 +7,4 @@ const testObj = {
 // Only change code below this line
 var hatValue = testObj.hat;      // Change this line
 var shirtValue = testObj.shirt;    // Change this line
-console.log(shirtValue);
+console.log(shirtValue); 
