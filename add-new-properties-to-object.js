@@ -6,4 +6,4 @@ const myDog = {
 };
 
 myDog['bark'] = "hove";
-console.log(myDog)
+console.log(myDog);
