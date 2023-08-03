@@ -4,8 +4,7 @@ function testEqual(val) {
         return "Equal";
     }
     return "Not Equal"
-} 
-
+}  
 console.log(testEqual(10)); // Output Not Equal couse it is 12
 
 // Strict Equality operator
