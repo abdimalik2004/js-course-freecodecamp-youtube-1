@@ -22,7 +22,7 @@ function caseInSwitch(val) {
 3 - "gamma"
 4 - "delta"
 */
-console.log(caseInSwitch(2));  
+console.log(caseInSwitch(2));
 
 
 // Default Option in Switch Statements
