@@ -8,4 +8,4 @@ function editInPlace() {
 }
 
 editInPlace()
-console.log(s);
+console.log(s); 
