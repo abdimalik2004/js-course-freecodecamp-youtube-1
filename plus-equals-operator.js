@@ -5,4 +5,4 @@ ourStr += "I come second. ";
 var mystr = "This is the frist sentence. " ;
 mystr += "This is the second sentence. " ;
 
-console.log(mystr);
+console.log(mystr); 
