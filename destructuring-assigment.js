@@ -18,9 +18,7 @@ function getTempOFTmrw(avgTemperatures) {
 
     return tempOfTomorow;
 }
-console.log(getTempOFTmrw(AVG_TEMPERATURES));
-
-
+console.log(getTempOFTmrw(AVG_TEMPERATURES)); 
 
 //Destructing Assigment with Nested Objects
 
