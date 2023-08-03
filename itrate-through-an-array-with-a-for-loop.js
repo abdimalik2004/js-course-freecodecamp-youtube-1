@@ -12,6 +12,5 @@ var total = 0;
 for (var i = 0; i < myArray.length; i++) {
     total += myArray[i];
 }
-console.log(total)
-
+console.log(total);
 // Only change code below this line
