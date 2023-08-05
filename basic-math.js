@@ -9,4 +9,4 @@ var product = 8 * 8;
 console.log(product);
 // Dividing numbers
 var divide = 77 / 44;
-console.log(divide); 
+console.log(divide);
