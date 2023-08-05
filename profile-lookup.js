@@ -36,4 +36,4 @@ function lookUpProfile(name, prop) {
 }
   
 var data = lookUpProfile("Sherlock", "hello");
-console.log(data);
+console.log(data);  
