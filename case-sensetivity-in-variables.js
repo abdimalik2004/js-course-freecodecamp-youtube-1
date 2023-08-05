@@ -5,4 +5,4 @@ var titleCaseOver;
 // Assigments
 studlyCapVar = 10;
 properCamelCase = "A String";
-titleCaseOver =  900; 
+titleCaseOver =  900;
