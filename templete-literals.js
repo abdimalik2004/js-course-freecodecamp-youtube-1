@@ -20,6 +20,5 @@ function makeList(arr) {
   
     return resultDisplayArray;
 }
-  
 const resultDisplayArray = makeList(result.failure);
 console.log(resultDisplayArray); 
