@@ -17,12 +17,11 @@ function cc(card) {
       count--;
       break;
   }
-
   var holdbet = 'Hold'
   if (count > 0) {
     holdbet = 'Bet'
   }
-
+ 
   return count + " " + holdbet;
 }
 cc(2); cc('K'); cc(10); cc('K'); cc('A');
