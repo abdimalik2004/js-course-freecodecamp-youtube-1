@@ -13,4 +13,4 @@ function freezeObj() {
 }
 const PI = freezeObj();
 
-console.log(PI);
+console.log(PI); 
