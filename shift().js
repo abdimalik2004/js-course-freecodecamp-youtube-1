@@ -5,4 +5,4 @@ var removedFromOurArray = ourArray.shift();
 //setup
 var myArray = [["Abdimalik",19], ["dog", 4]];
 var removedFromMyArray = myArray.shift();
-console.log(myArray);  
+console.log(myArray); 
