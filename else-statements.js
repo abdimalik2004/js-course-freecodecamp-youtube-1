@@ -11,5 +11,4 @@ function testElse(val) {
 
     return result;
 }
-
 console.log(testElse(4)); //Output  Smaller than 5 
