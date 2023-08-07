@@ -21,6 +21,6 @@ var myStorage = {
       }
     }
     
-};
+}; 
 var gloveBoxContents = myStorage.car.inside["glove box"];
 console.log(gloveBoxContents);
