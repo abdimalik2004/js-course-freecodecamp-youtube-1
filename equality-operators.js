@@ -14,7 +14,6 @@ function testStrict(val) {
     }
     return "Not Equal"
 }
-
 console.log(testStrict(10)); // Output  Not Equal
 
 // Comparing Different Values
