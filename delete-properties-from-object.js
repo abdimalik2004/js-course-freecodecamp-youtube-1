@@ -8,4 +8,4 @@ const myDog = {
 };
 
 delete myDog.tails;
-console.log(myDog); 
+console.log(myDog);
