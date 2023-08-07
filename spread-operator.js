@@ -4,6 +4,4 @@ let arr2;
     arr2 = [...arr1];
     arr1[0] = 'potato'
 })();
-
-
 console.log(arr2);
