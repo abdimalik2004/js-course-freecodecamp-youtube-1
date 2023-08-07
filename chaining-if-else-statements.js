@@ -11,4 +11,4 @@ function testSize(num) {
         return "Huge";
     }
 }
-console.log(testSize(7)); // Output Small 
+console.log(testSize(7));  // Output Small 
