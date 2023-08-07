@@ -16,4 +16,4 @@ const squarList = (arr) => {
 
 
 const squareIntegers = squarList(realMumberArray);
-console.log(squareIntegers); 
+console.log(squareIntegers);
