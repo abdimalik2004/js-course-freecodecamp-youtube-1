@@ -16,7 +16,7 @@ function golfScore(par, strokes) {
     return names[6]
   }
 };
-console.log(golfScore(5, 8)) ; // Output Go Home!
+console.log(golfScore(5, 8)); // Output Go Home!
 /*
 1	"Hole-in-one!"
 <= par - 2	"Eagle"
