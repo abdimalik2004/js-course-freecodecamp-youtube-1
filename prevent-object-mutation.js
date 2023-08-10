@@ -12,5 +12,4 @@ function freezeObj() {
     return MATH_CONSTANTS.PI;
 }
 const PI = freezeObj();
-
 console.log(PI); 
