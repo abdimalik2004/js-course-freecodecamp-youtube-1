@@ -12,5 +12,4 @@ function processedArg(num ) {
 }
 
 processed = processedArg(7);
-
 console.log(processed); // output is 2
