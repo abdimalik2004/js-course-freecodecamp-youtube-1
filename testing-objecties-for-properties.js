@@ -11,5 +11,5 @@ function checkObj(checkProp) {
       return "Not Found"
     }
     // Only change code above this line
-}
+} 
 console.log(checkObj("gift")); 
