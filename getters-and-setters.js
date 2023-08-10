@@ -30,4 +30,4 @@ let temp = thermos.temprature;
 thermos.temprature = 26;
 temp = thermos.temprature;
 
-console.log(temp);
+console.log(temp); 
