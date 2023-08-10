@@ -11,7 +11,6 @@ const AVG_TEMPERATURES = {
     today: 77.5,
     tommorow: 79
 };
-
 function getTempOFTmrw(avgTemperatures) {
     "use strict";
     const { tommorow : tempOfTomorow } = avgTemperatures;
