@@ -4,6 +4,5 @@ const myDog = {
     "tails": 2,
     "friends": ["freeCodeCamp Campers"]
 };
-
 myDog['bark'] = "hove";
 console.log(myDog); 
