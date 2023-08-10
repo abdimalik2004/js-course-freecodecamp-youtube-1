@@ -16,5 +16,4 @@ function phoneticLookup(val) {
     result = lookups[val];
     return result;
 }
-
 console.log(phoneticLookup("charlie")); 
