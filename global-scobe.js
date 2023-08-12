@@ -13,7 +13,6 @@ function fun2() {
     output += "oopsMyGlobal: " + oopsMyGlobal;
     }
     console.log(output);
-    
 };
 fun1();
 fun2();
