@@ -7,4 +7,4 @@ function orderMyLogic(val) {
         return "Greater than or equal to 10";
     }
 }
-console.log(orderMyLogic(3)); // Ouput Less than 5 
+console.log(orderMyLogic(3)); //Ouput Less than 5 
