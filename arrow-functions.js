@@ -13,6 +13,5 @@ const squarList = (arr) => {
     const squareIntegers = arr.filter(num => Number.isInteger(num) && num > 0).map(x => x * x);
     return squareIntegers;
 };
-
 const squareIntegers = squarList(realMumberArray);
 console.log(squareIntegers);
