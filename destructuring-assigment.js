@@ -6,7 +6,6 @@ var z = voxel.z;
 
 const { x : d, y : f, z : g } = voxel;
 
-
 const AVG_TEMPERATURES = {
     today: 77.5,
     tommorow: 79
