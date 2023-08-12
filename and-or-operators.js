@@ -11,5 +11,5 @@ function testLogicalOr(val) {
         return "Outside";
     }
     return "Inside";
-}
+} 
 console.log(testLogicalOr(16));  // Output Inside 
