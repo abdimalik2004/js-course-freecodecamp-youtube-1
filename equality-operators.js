@@ -16,7 +16,7 @@ function testStrict(val) {
 }
 console.log(testStrict(10)); // Output  Not Equal
 
-// Comparing Different Values
+// Comparing Different Values 
 function compareEquality(a, b) {
     if (a === b) {
         return "Equal";
