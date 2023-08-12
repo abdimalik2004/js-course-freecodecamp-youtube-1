@@ -17,4 +17,4 @@ function makeClass() {
 }
 const Vegatable = makeClass();
 const carrot = new Vegatable('carrot');
-console.log(carrot.name); 
+console.log(carrot.name);
