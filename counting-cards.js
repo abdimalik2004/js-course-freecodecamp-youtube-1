@@ -16,7 +16,7 @@ function cc(card) {
     case "A":
       count--;
       break;
-  }
+  } 
   var holdbet = 'Hold'
   if (count > 0) {
     holdbet = 'Bet'
