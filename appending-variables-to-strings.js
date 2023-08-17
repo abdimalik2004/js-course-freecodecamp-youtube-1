@@ -2,4 +2,4 @@
 var someadjective = "worthwhile ";
 var myStr = "Learning to code is ";
 myStr += someadjective;
-console.log(myStr); 
+console.log(myStr);
