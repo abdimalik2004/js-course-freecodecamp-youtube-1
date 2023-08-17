@@ -19,7 +19,6 @@ function getTempOFTmrw(avgTemperatures) {
 console.log(getTempOFTmrw(AVG_TEMPERATURES));
 
 //Destructing Assigment with Nested Objects
-
 const LOCAL_FORECAST = {
     today: { min: 64, max: 77 },
     tomorrow: { min: 68, max: 80 }
