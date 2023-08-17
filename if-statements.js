@@ -10,5 +10,5 @@ function trueOrFalse(wasThatTrue) {
         return "yes, that was true";
     }
     return "no that was false";
-}; 
+};
 console.log(trueOrFalse(true)); // Output yes, that was true  
