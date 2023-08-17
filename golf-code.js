@@ -15,7 +15,7 @@ function golfScore(par, strokes) {
   } else if (strokes >= par + 3)  {
     return names[6]
   }
-}; 
+};
 console.log(golfScore(5, 8)); // Output Go Home!
 /*
 1	"Hole-in-one!"
