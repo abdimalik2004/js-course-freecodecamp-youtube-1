@@ -15,6 +15,7 @@ var c = 3;
 a -= 6;
 b -= 15;
 c -= 1;
+
 // product  
 var a = 5;
 var b = 12;
