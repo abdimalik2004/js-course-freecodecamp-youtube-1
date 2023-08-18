@@ -7,4 +7,4 @@ function myOutfit() {
     return outWear;
 };
 console.log(myOutfit());
-console.log(outWear); 
+console.log(outWear);
