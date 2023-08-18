@@ -2,7 +2,7 @@ var catName = "Madax madow";
 
 var catName = "madax-gudud"
 
-console.log(catName);
+console.log(catName); 
 
 // let operator
 let catName = "madax-madow";
