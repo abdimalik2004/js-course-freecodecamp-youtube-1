@@ -23,7 +23,7 @@ function makeClass() {
         }
     }
     return Thermostat;
-}
+} 
 const Thermostat = makeClass();
 const thermos = new Thermostat(76);
 let temp = thermos.temprature;
