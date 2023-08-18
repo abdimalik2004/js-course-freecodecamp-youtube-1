@@ -11,4 +11,4 @@ function processedArg(num ) {
     return (num + 3) / 5;
 }
 processed = processedArg(7);
-console.log(processed); // output is 2 
+console.log(processed); // output is 2  
