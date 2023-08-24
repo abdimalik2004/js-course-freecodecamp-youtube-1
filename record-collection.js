@@ -17,7 +17,7 @@ var collection = {
     "5439": {
       albumTitle: 'ABBA Gold'
     }
-}; 
+};  
 // Only change code below this line
 var collectionCopy = JSON.parse(JSON.stringify(collection));
 function updateRecords(id, prop, value) {
