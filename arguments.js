@@ -8,4 +8,4 @@ ourfunctionWhithArgs(10,5);
 function myFunctionWhithArgs(a, b) {
     console.log(a * b);
 }
-myFunctionWhithArgs(12, 12);  
+myFunctionWhithArgs(12, 12);
