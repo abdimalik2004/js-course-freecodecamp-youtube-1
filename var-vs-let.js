@@ -17,7 +17,7 @@ let catName = "madax-madow";
 
 catName = "madax-gudud";
 
-console.log(catName);
+console.log(catName); 
 
 function checkScope() {
     var i = 'function scope';
