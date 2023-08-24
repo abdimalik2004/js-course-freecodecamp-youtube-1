@@ -17,4 +17,4 @@ var myPlants = [
     }
 ];
 var secondTree = myPlants[1].list[1];
-console.log(secondTree); 
+console.log(secondTree);  
