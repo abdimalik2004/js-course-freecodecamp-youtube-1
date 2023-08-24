@@ -10,5 +10,5 @@ function testSize(num) {
     } else {
         return "Huge";
     }
-}
+} 
 console.log(testSize(7)); // Output Small
