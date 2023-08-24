@@ -11,7 +11,7 @@ var contacts = [
       lastName: "Potter",
       number: "0994372684",
       likes: ["Hogwarts", "Magic", "Hagrid"],
-    },
+    }, 
     {
       firstName: "Sherlock",
       lastName: "Holmes",
