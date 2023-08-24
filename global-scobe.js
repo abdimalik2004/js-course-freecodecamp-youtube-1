@@ -12,7 +12,7 @@ function fun2() {
     if (typeof oopsMyGlobal != "undefined") {
     output += "oopsMyGlobal: " + oopsMyGlobal;
     }
-    console.log(output);
+    console.log(output); 
 };
 fun1();
 fun2();
