@@ -11,7 +11,7 @@ const result = {
     success: ["max-length", "no-amd", "prefer-arrow-functions"],
     failure: ["no-var", "var-on-top", "linebreak"],
     skipped: ["no-extra-semi", "no-dup-keys"]
-};
+}; 
 function makeList(arr) {
     const resultDisplayArray = [];
     for (let i = 0; i < arr.length; i++) {
@@ -21,4 +21,4 @@ function makeList(arr) {
     return resultDisplayArray;
 } 
 const resultDisplayArray = makeList(result.failure);
-console.log(resultDisplayArray); 
+console.log(resultDisplayArray);   
