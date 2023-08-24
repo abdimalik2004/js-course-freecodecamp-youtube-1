@@ -6,4 +6,4 @@ function addThree() {
 function addFive() {
     sum += 5;
 }
-console.log(addFive);
+console.log(addFive);  
