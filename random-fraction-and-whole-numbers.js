@@ -3,7 +3,7 @@ function randomFraction() {
   
     return Math.random();
 } 
-console.log(randomFraction());
+console.log(randomFraction()); 
 
 
 var randomNumberBetween0and19 = Math.floor(Math.random() * 20);
