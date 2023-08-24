@@ -8,4 +8,4 @@ CODE OUTPUT
 \b backspace
 \f form feed
 */ 
-var myStr = "Fristline\n\t\\Secondline\nThirdline";  
+var myStr = "Fristline\n\t\\Secondline\nThirdline";   
