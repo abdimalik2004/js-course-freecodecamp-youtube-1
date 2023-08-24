@@ -12,4 +12,4 @@ function checkObj(checkProp) {
     }
     // Only change code above this line
 } 
-console.log(checkObj("gift")); 
+console.log(checkObj("gift"));  
