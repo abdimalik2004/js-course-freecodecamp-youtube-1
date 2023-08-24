@@ -7,4 +7,4 @@ function editInPlace() {
      s[2] = 7;
 }
 editInPlace()
-console.log(s);   
+console.log(s);
