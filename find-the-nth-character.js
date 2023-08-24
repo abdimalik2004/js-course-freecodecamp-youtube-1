@@ -14,4 +14,4 @@ var fristName = "Abdimalik";
 var thirdLetterOfFristName = fristName[fristName.length-3];
 
 var lastName = "Abdirahman";
-var secondToLastLetterOfLastName = lastName[lastName.length -3];  
+var secondToLastLetterOfLastName = lastName[lastName.length -3];
