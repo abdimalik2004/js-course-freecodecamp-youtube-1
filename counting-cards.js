@@ -22,6 +22,6 @@ function cc(card) {
     holdbet = 'Bet'
   }
   return count + " " + holdbet;
-} 
+}  
 cc(2); cc('K'); cc(10); cc('K'); cc('A');
 console.log(cc(4)); 
