@@ -12,4 +12,4 @@ function testLogicalOr(val) {
     }
     return "Inside";
 } 
-console.log(testLogicalOr(16)); // Output Inside 
+console.log(testLogicalOr(16)); // Output Inside  
