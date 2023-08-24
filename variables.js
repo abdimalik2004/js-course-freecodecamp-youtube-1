@@ -8,4 +8,4 @@ const testObj = {
 // Only change code below this line
 var playerNumber = 12;  // Change this line
 var player = testObj[playerNumber];   // Change this line
-console.log(player);  
+console.log(player);
