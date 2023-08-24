@@ -1,4 +1,4 @@
-//Setup   
+//Setup
 var contacts = [
     {
       firstName: "Akira",
