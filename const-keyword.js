@@ -5,4 +5,4 @@ function printMyManyTimes(str) {
         console.log(SENT);
     }
 }
-printMyManyTimes("Abdimalik"); 
+printMyManyTimes("Abdimalik");
