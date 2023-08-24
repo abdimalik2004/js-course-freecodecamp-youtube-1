@@ -18,4 +18,4 @@ var myMusic = [
         "Youtube videos"
       ]
     }
-];
+]; 
