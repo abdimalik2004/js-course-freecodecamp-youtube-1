@@ -9,4 +9,4 @@ var myDog = {
   "Legs": 3,
   "tails": 2,
   "friends": []
-};  
+};
