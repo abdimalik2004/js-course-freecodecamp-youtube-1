@@ -9,7 +9,7 @@ let catName = "madax-madow";
 
 let catName = "madax-gudud";
 
-console.log(catName);
+console.log(catName); 
 // when we are in let operator if we declare one value for two times we will get an error but in var we not
 
 // but if we use to change the following way we would not get an error
