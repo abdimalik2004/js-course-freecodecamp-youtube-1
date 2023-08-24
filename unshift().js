@@ -6,4 +6,4 @@ ourArray.unshift("HAppy");
 var myArray = [["Abdimalik",19], ["dog", 4]];
 var removedFromMyArray = myArray.shift();
 myArray.unshift("Abdimalik", 18);
-console.log(myArray); 
+console.log(myArray);  
