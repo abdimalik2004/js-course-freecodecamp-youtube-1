@@ -6,7 +6,6 @@ console.log(catName);
 
 // let operator
 let catName = "madax-madow";
-
 let catName = "madax-gudud";
 
 console.log(catName); 
