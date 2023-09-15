@@ -7,5 +7,5 @@ CODE OUTPUT
 \t tab
 \b backspace
 \f form feed
-*/ 
+*/
 var myStr = "Fristline\n\t\\Secondline\nThirdline";
