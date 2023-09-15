@@ -22,7 +22,7 @@ function compareEquality(a, b) {
     }
     return "Not Equal";
 } 
-console.log(compareEquality(10, "10")); // Output
+console.log(compareEquality(10, "10")); // Output 
 
 // Comparison whith the Inequality Operator
 function testNotEqual(val) {
