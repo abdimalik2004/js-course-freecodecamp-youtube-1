@@ -15,7 +15,7 @@ function caseInSwitch(val) {
         break;
     }
     return answer;
-}
+} 
 /*
 1 - "alpha"
 2 - "beta"
