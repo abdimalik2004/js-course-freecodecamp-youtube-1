@@ -1,11 +1,12 @@
 function ourReusableFunction() {
-    console.log("Heyya, world");
+  console.log("Heyya, world");
 }
 
 ourReusableFunction();
 
 //setup
 function reusableFunction() {
-    console.log("Hello world");
+  console.log("Hello world");
 }
-reusableFunction(); device
+reusableFunction();
+device;
