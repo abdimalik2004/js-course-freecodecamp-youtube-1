@@ -7,7 +7,7 @@ a += 12;
 b += b;
 c += 7;
 
-//Subt 
+//Subt  
 var a = 11;
 var b = 9;
 var c = 3;
